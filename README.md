@@ -1,4 +1,4 @@
-# DocumentToDatabaseScanner
+# Invoice To Database Scanner
 
 A project for a startup company based in Great Falls, Virginia.
 
